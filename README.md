@@ -68,4 +68,3 @@ Breakout Ball Game is a classic brick-breaking game built using Python and Pygam
 ---
 
 Enjoy the game and happy coding!
-```
