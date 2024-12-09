@@ -1,7 +1,5 @@
 # Breakout-Ball-Game using python
-Here’s a sample **README.md** file tailored to your "Breakout Ball Game" project:
 
-```markdown
 # Breakout Ball Game
 
 Breakout Ball Game is a classic brick-breaking game built using Python and Pygame. The objective of the game is to control a paddle, hit the ball, and destroy all the bricks while avoiding losing the ball.
@@ -17,8 +15,9 @@ Breakout Ball Game is a classic brick-breaking game built using Python and Pygam
 ## How to Play
 
 1. Clone this repository:
+
    ```bash
-   git clone https://github.com/your-repo/BreakoutBallGame.git
+   git clone https://github.com/Yogiii13/breakout-ball-game.git
    cd BreakoutBallGame
    ```
 
