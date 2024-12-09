@@ -1,5 +1,3 @@
-# Breakout-Ball-Game using python
-
 # Breakout Ball Game
 
 Breakout Ball Game is a classic brick-breaking game built using Python and Pygame. The objective of the game is to control a paddle, hit the ball, and destroy all the bricks while avoiding losing the ball.
